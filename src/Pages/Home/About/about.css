@@ -1,0 +1,15 @@
+
+.about-title{
+    font-size: 28px;
+color: rgb(172, 168, 224);    
+} 
+li{
+    list-style: none;
+}
+.about-img{
+     width: 200px;
+    height: 200px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,23 @@
+img{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+
+}
+.card{
+    
+    background-color:#d4d3eb ;
+    color: black;
+   padding: 20px;
+   margin: 30px 20px;
+  
+}
+.card:hover{
+  background-color:#9892da ;
+  color: white;
+}
+.contact-img{
+ 
+}
